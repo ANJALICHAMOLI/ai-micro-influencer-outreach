@@ -1,0 +1,9 @@
+google-api-python-client
+pandas
+pydantic>=2.0
+python-dotenv
+groq
+streamlit
+beautifulsoup4
+requests
+pytest
