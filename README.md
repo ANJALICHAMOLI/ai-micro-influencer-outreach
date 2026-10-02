@@ -1,8 +1,6 @@
-Here is your copy-paste ready `README.md` — just create a `README.md` file in your repo and paste this:
-
-````markdown
 # AI-Powered Micro-Influencer Outreach System
 
+````markdown
 > A modular, reusable AI pipeline for discovering, filtering, enriching, personalizing, and tracking outreach to micro-influencers.
 
 This system is designed to be reusable across creator-outreach campaigns by keeping the brand name and other campaign settings configurable through environment variables.
